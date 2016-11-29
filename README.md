@@ -1,2 +1,2 @@
 # AUPS
-Arduino Uno Polulo Shield
+Arduino Uno Polulo Shield, made in KiCAD.
